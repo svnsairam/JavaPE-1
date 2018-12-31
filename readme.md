@@ -1,4 +1,4 @@
 # Html Css Assignment 1
-Kritagyata Charity Trust Website.
+Java PE1 Assignment
 ## steps to run
-https://svnsairam.github.io/HTML-CSS-ASSIGNMENT-1/index.html
+Goto src folder and you find the quesitons.
