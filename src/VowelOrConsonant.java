@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q3_VowelOrConsonant {
+public class VowelOrConsonant {
     public static void main(String ar[]){
         Scanner     scanner = new Scanner(System.in);
         String      input = scanner.nextLine();

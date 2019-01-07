@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q4_NumberPattern {
+public class NumberPattern {
     public static void main(String arg[]){
         Scanner     scanner = new Scanner(System.in);
         int     input = scanner.nextInt();

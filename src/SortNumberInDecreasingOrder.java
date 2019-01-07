@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q7_SortNumberInDecreasingOrder {
+public class SortNumberInDecreasingOrder {
     public static void main(String arg[]){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number to sort");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q2_PrintTomOrJerry {
+public class PrintTomOrJerry {
     public static void main(String ar[]) {
         System.out.println("Enter digit between 20 to 30");
         Scanner     scanner = new Scanner(System.in);

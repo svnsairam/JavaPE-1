@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q10_RepeatingLastNLetters {
+public class RepeatingLastNLetters {
     public static  void  main(String arg[]){
         Scanner     scanner = new Scanner(System.in);
         String      inputString = new String();

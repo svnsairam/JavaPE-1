@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q5_SumOfNumbers {
+public class SumOfNumbers {
     public static void main(String arg[]){
         Scanner     scanner = new Scanner(System.in);
         System.out.println("Enter any number and 0 if you are finished: ");
